@@ -1,9 +1,8 @@
 # CS330
 SNHU Computer Graphics and Visualization
 
-Aeriel Denmark
-Shaykhian – Portfolio Submission
-*Sun 3/2/25*
+Aeriel Denmark | Instructor Gholam Shaykhian | Portfolio Submission
+Sun 3/2/25
 
 **1. How do I approach designing software?**
 - Learning What new design skills has your work on the project helped you to craft?
